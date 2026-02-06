@@ -198,7 +198,7 @@
 
 ### C_Promotion_SetLevel
 - Number: IntProperty
-
+- 1-18
 ### C_Promotion_SetLevelSpecific
 - onCharacter: ObjectProperty
 - Number: IntProperty
